@@ -26,8 +26,8 @@ Combine interdisciplinary methods for unique opportunities, improve operational 
 
 `2012-2016`
 __Ph.D., University of Arizona, Atmospheric Sciences__
-- Dissertation: (Assessment and Improvement of
-Snow Datasets Over the United States)[https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1]  
+- Dissertation: <a href="https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1 ">Assessment and Improvement of
+Snow Datasets Over the United States</a> 
 
 `2010 - 2011`
 __M.S., University of Arizona, Environmental Science__
