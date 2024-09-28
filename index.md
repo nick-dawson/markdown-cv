@@ -6,7 +6,7 @@ title: Nichols Dawson's CV
 Atmospheric Scientist, Airman, Adventurer.
 
 <div id="webaddress ">
-ndawson33@gmail.com | 208.860.0954
+<a href="mailto:ndawson33@gmail.com">ndawson33@gmail.com</a> | 208.860.0954
 </div>
 
 
