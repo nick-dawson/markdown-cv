@@ -125,8 +125,7 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 - Created Python-based cloud seeding suspension criteria, adopted in operations (WY 2024), reducing minimum suspension period to 3 days from 30. Earned positive stakeholder feedback and inquiries for broader applications.
 - Lead cross-deptarmental team to update solar and wind generation forecasts, reducing generation forecast error by ~30%, allowing for improved day-ahead resource planning.
 - Pioneered Azure-based DevOps CI/CD workflow for Python git repositories at the company, streamlining testing and development, saving time and reducing errors.
-- Developed and maintained 12 operational Python codes, supporting cloud seeding, renewable energy optimization, and market trade decisions.
-
+- Developed and implemented Fire Potential Index forecast process to support companys Wildfire Mitigation Plan.
 
 `2022 - now`__Oregon Air National Guard__, Portland, OR
 - Officer in Charge of the 123rd Combat Weather Flight which consists of 6 enlisted Weather Airmen.
