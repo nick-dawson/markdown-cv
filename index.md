@@ -64,6 +64,8 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmos. Chem. Phys.*, __23__, 5217–5231, https://doi.org/10.5194/acp-23-5217-2023.
 
+`2021` Friedrich, K., J. French, S. Tessendorf, M. Hatt, C. Weeks, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2021: Microphysical Characteristics and Evolution of Seeded Orographic Clouds. *Journal of Applied Meteorology and Climatology*, __60__, 909–934, https://doi.org/10.1175/JAMC-D-20-0206.1.
+
 `2020` Friedrich, K., K. Ikeda, S. Tessendorf, J. French, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2020: Quantifying snowfall from orographic cloud seeding. *Proc. Natl. Acad. Sci. U.S.A.*, __117__, 5190–5195, https://doi.org/10.1073/pnas.1917204117.
 
 `2018` Fisher, J. M., M. L. Lytle, M. L. Kunkel, D. R. Blestrud, **N. W. Dawson**, S. K. Parkinson, R. Edwards, and S. G. Benner, 2018: Assessment of Ground-Based and Aerial Cloud Seeding Using Trace Chemistry. *Advances in Meteorology*, 2018, 1–15, https://doi.org/10.1155/2018/7293987.
@@ -87,7 +89,8 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 
 ### Posters
-`2017`**Dawson, N., Blestrud, D., Kunkel, M. L., Waller, B, Ceratto, J., 2017. Prototype methodology for obtaining cloud seeding guidance from HRRR model data. American Geophysical Union Fall Meeting.
+`2017` **Dawson, N.**, Blestrud, D., Kunkel, M. L., Waller, B, Ceratto, J., 2017. Prototype methodology for obtaining cloud seeding guidance from HRRR model data. American Geophysical Union Fall Meeting.
+
 `2016` Brunke, M., **Dawson, N.**, Zeng, X., Cassano, J. J., Duvivier, A., Gutowski, W. J., Jr., Hamman, J., Maslowski, W., Nijssen, B., and Roberts, A., 2016. Evaluation of Atmosphere-Land-Sea Ice-Ocean Interface Processes in the Regional Arctic System Model (RASM1.0). American Geophysical Union Fall Meeting. 
 
 
