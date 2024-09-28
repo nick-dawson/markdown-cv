@@ -5,7 +5,7 @@ title: Nichols Dawson's CV
 # Nicholas Dawson
 Atmospheric Scientist, Airman, Adventurer.
 
-<div id="webaddress ">
+<div id="webaddress">
 <a href="mailto:ndawson33@gmail.com">ndawson33@gmail.com</a> | 208.860.0954
 </div>
 
