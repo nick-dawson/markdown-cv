@@ -61,29 +61,41 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 ## Publications
 ### Journals
 `2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, https://doi.org/10.1175/JAS-D-23-0029.1.
-&nbsp;
+
+
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmos. Chem. Phys.*, 23, 5217–5231, https://doi.org/10.5194/acp-23-5217-2023.
-\
+
+
 `2021` Friedrich, K., J. French, S. Tessendorf, M. Hatt, C. Weeks, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2021: Microphysical Characteristics and Evolution of Seeded Orographic Clouds. *Journal of Applied Meteorology and Climatology*, 60, 909–934, https://doi.org/10.1175/JAMC-D-20-0206.1.
-\
+
+
 `2020` Friedrich, K., K. Ikeda, S. Tessendorf, J. French, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2020: Quantifying snowfall from orographic cloud seeding. *Proc. Natl. Acad. Sci. U.S.A.*, 117, 5190–5195, https://doi.org/10.1073/pnas.1917204117.
-\
+
+
 `2018` Fisher, J. M., M. L. Lytle, M. L. Kunkel, D. R. Blestrud, **N. W. Dawson**, S. K. Parkinson, R. Edwards, and S. G. Benner, 2018: Assessment of Ground-Based and Aerial Cloud Seeding Using Trace Chemistry. *Advances in Meteorology*, 2018, 1–15, https://doi.org/10.1155/2018/7293987.
-\
+
+
 `2018` Brunke, M. A., J. Cassano, **N. Dawson**, A. DuVivier, W. Gutowski, J. Hamman, W. Maslowski, B. Jijssen, J. Reeves Eyre, J. Renteria, A. Roberts, X. Zeng, 2018: Evaluation of the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model Version 1 (RASM1) using local and globally gridded observations. https://doi.org/10.5194/gmd-2018-104.
-\
+
+
 `2018` **Dawson, N.**, P. Broxton, and X. Zeng, 2018: Evaluation of Remotely Sensed Snow Water Equivalent and Snow Cover Extent over the Contiguous United States. *Journal of Hydrometeorology*, 19, 1777–1791, https://doi.org/10.1175/JHM-D-18-0007.1.
-\
+
+
 `2018` Zeng, X., P. Broxton, and **N. Dawson**, 2018: Snowpack Change From 1982 to 2016 Over Conterminous United States. *Geophysical Research Letters*, 45, https://doi.org/10.1029/2018GL079621.
-\
+
+
 `2017` Broxton, P. D., X. Zeng, and **N. Dawson**, 2017: The Impact of a Low Bias in Snow Water Equivalent Initialization on CFS Seasonal Forecasts. *Journal of Climate*, 30, 8657–8671, https://doi.org/10.1175/JCLI-D-17-0072.1.
-\
+
+
 `2017` **Dawson, N.**, P. Broxton, and X. Zeng, 2017: A New Snow Density Parameterization for Land Data Initialization. *Journal of Hydrometeorology*, 18, 197–207, https://doi.org/10.1175/JHM-D-16-0166.1.
-\
+
+
 `2016` **Dawson, N.**, P. Broxton, X. Zeng, M. Leuthold, M. Barlage, and P. Holbrook, 2016: An Evaluation of Snow Initializations in NCEP Global and Regional Forecasting Models. *Journal of Hydrometeorology*, 17, 1885–1901, https://doi.org/10.1175/JHM-D-15-0227.1.
-\
+
+
 `2016` Broxton, P. D., X. Zeng, and **N. Dawson**, 2016: Why Do Global Reanalyses and Land Data Assimilation Products Underestimate Snow Water Equivalent? *Journal of Hydrometeorology*, 17, 2743–2761, https://doi.org/10.1175/JHM-D-16-0056.1.
-\
+
+
 `2016` Broxton, P. D., **N. Dawson**, and X. Zeng, 2016: Linking snowfall and snow accumulation to generate spatial maps of SWE and snow depth. *Earth and Space Science*, 3, 246–256, https://doi.org/10.1002/2016EA000174.
 
 
