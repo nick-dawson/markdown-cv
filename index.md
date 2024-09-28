@@ -24,7 +24,7 @@ Combine interdisciplinary methods for unique opportunities, improve operational 
 
 ## Education
 
-`2012-2016`
+`2012 - 2016`
 __Ph.D., University of Arizona, Atmospheric Sciences__
 - Dissertation: <a href="https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1 ">Assessment and Improvement of
 Snow Datasets Over the United States</a> 
@@ -34,10 +34,20 @@ __M.S., University of Arizona, Environmental Science__
 - Improved WRF frost forecasts for Arizona produce farmers to minimize produce losses.
 - Determined best WRF configuration for wind forecasts in Idaho for use in day-ahead energy forecasts.
 
-`2008-2010`
+`2008 - 2010`
 __B.S., University of Missouri - Columbia, Atmospheric Sciences__
 
+## Service
+`2021 - now` American Meteorological Society, Chair, Planned and Inadvertent Weather Modification
+`2023` Chair, 24th Conference on Planned and Inadvertent Weather Modification
 
+## Memberships
+American Meteorological Society
+
+Weather Modification Association
+- Certified Operator
+
+American Geophysical Union
 
 ## Awards
 `2022`
