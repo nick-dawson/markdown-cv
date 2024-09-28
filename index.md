@@ -61,7 +61,7 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 ## Publications
 ### Journals
 `2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, https://doi.org/10.1175/JAS-D-23-0029.1.
-\
+&nbsp;
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmos. Chem. Phys.*, 23, 5217–5231, https://doi.org/10.5194/acp-23-5217-2023.
 \
 `2021` Friedrich, K., J. French, S. Tessendorf, M. Hatt, C. Weeks, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2021: Microphysical Characteristics and Evolution of Seeded Orographic Clouds. *Journal of Applied Meteorology and Climatology*, 60, 909–934, https://doi.org/10.1175/JAMC-D-20-0206.1.
