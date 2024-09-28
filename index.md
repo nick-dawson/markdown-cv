@@ -101,7 +101,8 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 ### Posters
 `2017` **Dawson, N.**, Blestrud, D., Kunkel, M. L., Waller, B, Ceratto, J., 2017. Prototype methodology for obtaining cloud seeding guidance from HRRR model data. American Geophysical Union Fall Meeting.
-<br/>
+
+
 `2016` Brunke, M., **Dawson, N.**, Zeng, X., Cassano, J. J., Duvivier, A., Gutowski, W. J., Jr., Hamman, J., Maslowski, W., Nijssen, B., and Roberts, A., 2016. Evaluation of Atmosphere-Land-Sea Ice-Ocean Interface Processes in the Regional Arctic System Model (RASM1.0). American Geophysical Union Fall Meeting. 
 
 
@@ -109,21 +110,20 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 
 `2016 - now`__Idaho Power Company__, Boise, ID
-
 - Led cross-departmental team to assess improved wind generation forecast's financial impact. Quantified benefits at ~$100k, enabling strategic resource reallocation.
 - Created Python-based cloud seeding suspension criteria, adopted in operations (WY 2024), reducing minimum suspension period to 3 days from 30. Earned positive stakeholder feedback and inquiries for broader applications.
 - Lead cross-deptarmental team to update solar and wind generation forecasts, reducing generation forecast error by ~30%, allowing for improved day-ahead resource planning.
 - Pioneered Azure-based DevOps CI/CD workflow for Python git repositories at the company, streamlining testing and development, saving time and reducing errors.
 - Developed and maintained 12 operational Python codes, supporting cloud seeding, renewable energy optimization, and market trade decisions.
 
-`2022 - now`__Oregon Air National Guard__, Portland, OR
 
+`2022 - now`__Oregon Air National Guard__, Portland, OR
 - Officer in Charge of the 123rd Combat Weather Flight which consists of 6 enlisted Weather Airmen.
 - Coordinates training opportunities with Army National Guard units
 - Responsible for ensuring weather airmen are trained in both weather to support Army Guard and also familiarized with Army doctrine so we can successfully integrate into their operations.
 
-`2008 - 2022`__Army National Guard__, Missouri, Arizona, and Idaho
 
+`2008 - 2022`__Army National Guard__, Missouri, Arizona, and Idaho
 - Combined 8 years part-time enlisted service with 3 years as a non-commissioned officer.
 - 2 years served as a logistics officer for an aviation batallion.
 - 5 year break in service during Ph.D. and beginning of career at Idaho Power.
