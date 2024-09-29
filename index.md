@@ -81,6 +81,9 @@ National Defense Service Ribbon - Missouri Army National Guard
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmospheric Chemistry and Physics*, 23, 5217–5231, [https://doi.org/10.5194/acp-23-5217-2023](https://doi.org/10.5194/acp-23-5217-2023).
 
 
+`2022` Xue, L., S. Tessendorf, R. Rasmussen, K. Ikeda, B. Kosovic, D. Behringer, J. French, K. Friedrich, T. Zaremba, R. Rauber, C. Lackner, B. Geerts, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2022: Comparison between Observed and Simulated AgI Seeding Impacts in a Well-Observed Case from the SNOWIE Field Program. *Journal of Applied Meteorology and Climatology*, 61, 345–367, [https://doi.org/10.1175/JAMC-D-21-0103.1](https://doi.org/10.1175/JAMC-D-21-0103.1).
+
+
 `2021` Friedrich, K., J. French, S. Tessendorf, M. Hatt, C. Weeks, R. Rauber, B. Geerts, L. Xue, R. Rasmussen, D. Blestrud, M. Kunkel, **N. Dawson**, and S. Parkinson, 2021: Microphysical Characteristics and Evolution of Seeded Orographic Clouds. *Journal of Applied Meteorology and Climatology*, 60, 909–934, [https://doi.org/10.1175/JAMC-D-20-0206.1](https://doi.org/10.1175/JAMC-D-20-0206.1).
 
 
