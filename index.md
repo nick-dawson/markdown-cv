@@ -10,16 +10,15 @@ Atmospheric Scientist, Airman, Adventurer.
 </div>
 
 
-## Currently
+## Professional Summary
 
-Senior Atmospheric Scientist, Expert in Applied Earth System Sciences & Operational Meteorology
+Senior Atmospheric Scientist | Expert in Operational Meteorology & Applied Sciences
 
+Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of **research-to-operations** (R2O) workflows for utility and environmental applications. Expertise in **cloud seeding** operations, **fire weather** forecasting, and numerical weather prediction (NWP) using predictive models like **WRF**. Proficient in **Python** for process automation and developing data-driven decision support systems. Proven ability to **lead strategic projects**, foster **collaborative partnerships**, and translate scientific discoveries into **actionable solutions** that address business challenges.
 
-Atmospheric scientist with extensive experience in community-driven, **multidisciplinary research** and the integration of **research-to-operations** (R2O) workflows for utility and environmental applications. Expertise in **cloud seeding** operations, **fire weather** forecasting, and numerical weather prediction (NWP) using predictive models like **WRF**. Proficient in **Python** for process automation and developing data-driven decision support systems. Demonstrated ability to **lead** strategic projects, foster **collaborative partnerships**, and translate scientific discoveries into **actionable solutions** addressing societal challenges.
+### Research Interests
 
-### Research interests
-
-Advancing interdisciplinary approaches to operational meteorology through innovative methodologies and state-of-the-art modeling techniques. Optimizing cloud seeding efficacy with cutting-edge tools and enhancing predictive accuracy in fire weather forecasting through comprehensive observational integration. Translating complex scientific research into actionable Earth system solutions to address critical societal challenges, supported by strategic collaborations and community-driven research initiatives.
+Advancing operational meteorology through innovative, interdisciplinary methodologies and state-of-the-art modeling techniques. Enhancing cloud seeding efficacy with cutting-edge tools and improving fire weather forecasting accuracy through comprehensive observational integration. Translating complex scientific research into practical Earth system solutions to meet critical societal needs, supported by strategic collaborations and community-driven initiatives.
 
 ## Education
 `2012 – 2016`  
