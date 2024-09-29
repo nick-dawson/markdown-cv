@@ -133,7 +133,7 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 `2008 - 2022`__Army National Guard__, Missouri, Arizona, and Idaho
 - __Served 8 years__ as part-time enlisted personnel and 3 years as a non-commissioned officer, demonstrating leadership, strategic planning, and operational management within various units.
-- __Acting Forward Support Company Executive Officer in the 183rd Aviation Battalion for 2 years, managing supply chain operations while ensuring mission-critical resource availability.
+- __Acting Forward Support Company Executive Officer__ in the 183rd Aviation Battalion for 2 years, managing supply chain operations while ensuring mission-critical resource availability.
 - __Maintained active readiness and leadership skills__ through ongoing professional development during a 5-year hiatus for Ph.D. studies and early career development at Idaho Power.
 
 
