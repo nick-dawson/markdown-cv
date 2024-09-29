@@ -38,15 +38,15 @@ __M.S., University of Arizona, Environmental Science__
 __B.S., University of Missouri - Columbia, Atmospheric Sciences__
 
 ## Service
+### Committees
 `2023` __Chair__, 24th Conference on Planned and Inadvertent Weather Modification
 
 `2021 - now` American Meteorological Society, __Chair__, Planned and Inadvertent Weather Modification
 
-## Memberships
+### Memberships
 American Meteorological Society
 
-Weather Modification Association
-- Certified Operator
+Weather Modification Association, __Certified Operator__
 
 American Geophysical Union
 
@@ -70,6 +70,7 @@ Army Achievment Medal
 Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbia
 
 ## Publications
+### Journals
 `2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, https://doi.org/10.1175/JAS-D-23-0029.1.
 
 
@@ -109,7 +110,7 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 `2016` Broxton, P. D., **N. Dawson**, and X. Zeng, 2016: Linking snowfall and snow accumulation to generate spatial maps of SWE and snow depth. *Earth and Space Science*, 3, 246–256, https://doi.org/10.1002/2016EA000174.
 
 
-## Posters
+### Posters
 `2017` **Dawson, N.**, Blestrud, D., Kunkel, M. L., Waller, B, Ceratto, J., 2017. Prototype methodology for obtaining cloud seeding guidance from HRRR model data. American Geophysical Union Fall Meeting.
 
 
