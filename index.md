@@ -38,7 +38,7 @@ __B.S., University of Missouri - Columbia, Atmospheric Sciences__
 
 ## Service
 ### Committees and Conferences
-`2023` __Chair__, 24th Conference on Planned and Inadvertent Weather Modification, American Meteorological Society Annual Meeting
+`2024` __Chair__, 24th Conference on Planned and Inadvertent Weather Modification, American Meteorological Society Annual Meeting
 
 `2021 - now` __Chair__, American Meteorological Society Committee on Planned and Inadvertent Weather Modification
 
