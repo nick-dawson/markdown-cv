@@ -14,18 +14,11 @@ Atmospheric Scientist, Airman, Adventurer.
 
 Senior Atmospheric Scientist | Expert in Applied Earth System Sciences & Operational Meteorology
 
-Dedicated atmospheric scientist with extensive experience in community-driven, multidisciplinary research and integration of research-to-operations (R2O) workflows for utility and environmental applications. Demonstrated expertise in cloud seeding operations, fire weather forecasting, and data-driven decision support systems. Skilled in developing and applying predictive models (e.g., WRF) and leveraging Python for process automation and custom tool development. Proven ability to lead strategic projects, foster collaborative partnerships, and translate scientific discoveries into actionable solutions that address societal challenges.
-
-### Core Competencies
-- Advanced Cloud Seeding & Fire Weather Forecasting
-- Numerical Weather Prediction & Predictive Modeling
-- Research-to-Operations (R2O) Integration
-- Python Programming & Data-Driven Solutions
-- Multidisciplinary Collaboration & Strategic Partnerships
+Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of research-to-operations (R2O) workflows for utility and environmental applications. Expertise in cloud seeding operations, fire weather forecasting, and numerical weather prediction (NWP) using predictive models like WRF. Proficient in Python for process automation and developing data-driven decision support systems. Demonstrated ability to lead strategic projects, foster collaborative partnerships, and translate scientific discoveries into actionable solutions addressing societal challenges.
 
 ### Research interests
 
-Advancing interdisciplinary approaches to operational meteorology through the integration of innovative methodologies and state-of-the-art modeling techniques. Optimizing cloud seeding efficacy with cutting-edge tools and enhancing predictive accuracy in fire weather forecasting through comprehensive observational integration. Translating complex scientific research into actionable Earth system solutions to address critical societal challenges, supported by strategic collaborations and community-driven research initiatives.
+Advancing interdisciplinary approaches to operational meteorology through innovative methodologies and state-of-the-art modeling techniques. Optimizing cloud seeding efficacy with cutting-edge tools and enhancing predictive accuracy in fire weather forecasting through comprehensive observational integration. Translating complex scientific research into actionable Earth system solutions to address critical societal challenges, supported by strategic collaborations and community-driven research initiatives.
 
 ## Education
 
@@ -126,24 +119,21 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 
 `2016 - now`__Idaho Power Company__, Boise, ID
-- Led cross-departmental team to assess improved wind generation forecast's financial impact. Quantified benefits at ~$100k, enabling strategic resource reallocation.
-- Created Python-based cloud seeding suspension criteria, adopted in operations (WY 2024), reducing minimum suspension period to 3 days from 30. Earned positive stakeholder feedback and inquiries for broader applications.
-- Lead cross-deptarmental team to update solar and wind generation forecasts, reducing generation forecast error by ~30%, allowing for improved day-ahead resource planning.
-- Pioneered Azure-based DevOps CI/CD workflow for Python git repositories at the company, streamlining testing and development, saving time and reducing errors.
-- Developed and implemented Fire Potential Index forecast process to support companys Wildfire Mitigation Plan.
+- __Led a cross-departmental team__ to evaluate and quantify the financial impact of enhanced wind generation forecasting, resulting in strategic resource reallocation and cost savings of approximately $100k.
+- __Developed and implemented__ Python-based cloud seeding suspension criteria, adopted operationally in Wyoming (2024), reducing the minimum suspension period from 30 days to 3 days. This innovation received positive stakeholder feedback and generated inquiries for broader application.
+- __Directed a cross-departmental initiative__ to update solar and wind generation forecasts, achieving a ~30% reduction in forecast error and enabling improved day-ahead resource planning.
+- __Pioneered the adoption__ of an Azure-based DevOps CI/CD workflow for Python Git repositories, streamlining testing and development processes, saving time, and reducing errors.
+- __Designed and deployed__ a Fire Potential Index forecast process, supporting the company's Wildfire Mitigation Plan and enhancing proactive wildfire response strategies.
 
 `2022 - now`__Oregon Air National Guard__, Portland, OR
-- Officer in Charge of the 123rd Combat Weather Flight which consists of 6 enlisted Weather Airmen.
-- Coordinates training opportunities with Army National Guard units
-- Responsible for ensuring weather airmen are trained in both weather to support Army Guard and also familiarized with Army doctrine so we can successfully integrate into their operations.
-
+- __Officer in Charge__ of the 123rd Combat Weather Flight, overseeing a team of 6 enlisted Weather Airmen and ensuring operational readiness.
+- __Coordinated training opportunities__ with Army National Guard units, enhancing inter-unit collaboration and operational integration.
+- __Developed and implemented__ comprehensive training protocols for Weather Airmen, aligning meteorological expertise with Army doctrine to facilitate seamless integration into joint operations.
 
 `2008 - 2022`__Army National Guard__, Missouri, Arizona, and Idaho
-- Combined 8 years part-time enlisted service with 3 years as a non-commissioned officer.
-- 2 years served as a logistics officer for an aviation batallion.
-- 5 year break in service during Ph.D. and beginning of career at Idaho Power.
-
-
+- __Served 8 years__ as part-time enlisted personnel and 3 years as a non-commissioned officer, demonstrating leadership, strategic planning, and operational management within various units.
+- __Acting Forward Support Company Executive Officer in the 183rd Aviation Battalion for 2 years, managing supply chain operations while ensuring mission-critical resource availability.
+- __Maintained active readiness and leadership skills__ through ongoing professional development during a 5-year hiatus for Ph.D. studies and early career development at Idaho Power.
 
 
 <!-- ### Footer
