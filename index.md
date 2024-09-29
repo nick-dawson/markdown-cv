@@ -22,19 +22,18 @@ Atmospheric scientist with extensive experience in community-driven, **multidisc
 Advancing interdisciplinary approaches to operational meteorology through innovative methodologies and state-of-the-art modeling techniques. Optimizing cloud seeding efficacy with cutting-edge tools and enhancing predictive accuracy in fire weather forecasting through comprehensive observational integration. Translating complex scientific research into actionable Earth system solutions to address critical societal challenges, supported by strategic collaborations and community-driven research initiatives.
 
 ## Education
+`2012 – 2016`  
+**Ph.D., Atmospheric Sciences, University of Arizona**  
+- Dissertation: [Assessment and Improvement of Snow Datasets Over the United States](https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1)
 
-`2012 - 2016`
-__Ph.D., University of Arizona, Atmospheric Sciences__
-- Dissertation: <a href="https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1 ">Assessment and Improvement of
-Snow Datasets Over the United States</a> 
-
-`2010 - 2011`
-__M.S., University of Arizona, Environmental Science__
+`2010 – 2011`  
+**M.S., Environmental Science, University of Arizona**  
 - Improved WRF frost forecasts for Arizona produce farmers to minimize produce losses.
-- Determined best WRF configuration for wind forecasts in Idaho for use in day-ahead energy forecasts.
+- Determined optimal WRF configuration for wind forecasts in Idaho to enhance day-ahead energy planning.
 
-`2008 - 2010`
-__B.S., University of Missouri - Columbia, Atmospheric Sciences__
+`2008 – 2010`  
+**B.S., Atmospheric Sciences, University of Missouri - Columbia**
+
 
 ## Service
 ### Committees and Conferences
