@@ -88,7 +88,7 @@ National Defense Service Ribbon - Missouri Army National Guard
 `2018` Fisher, J. M., M. L. Lytle, M. L. Kunkel, D. R. Blestrud, **N. W. Dawson**, S. K. Parkinson, R. Edwards, and S. G. Benner, 2018: Assessment of Ground-Based and Aerial Cloud Seeding Using Trace Chemistry. *Advances in Meteorology*, 2018, 1–15, [https://doi.org/10.1155/2018/7293987](https://doi.org/10.1155/2018/7293987).
 
 
-`2018` Brunke, M. A., J. Cassano, **N. Dawson**, A. DuVivier, W. Gutowski, J. Hamman, W. Maslowski, B. Jijssen, J. Reeves Eyre, J. Renteria, A. Roberts, X. Zeng, 2018: Evaluation of the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model Version 1 (RASM1) using local and globally gridded observations. *Geoscientific Model Developmen*,11,104, [https://doi.org/10.5194/gmd-2018-104](https://doi.org/10.5194/gmd-2018-104).
+`2018` Brunke, M. A., J. Cassano, **N. Dawson**, A. DuVivier, W. Gutowski, J. Hamman, W. Maslowski, B. Jijssen, J. Reeves Eyre, J. Renteria, A. Roberts, X. Zeng, 2018: Evaluation of the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model Version 1 (RASM1) using local and globally gridded observations. *Geoscientific Model Developmen*,11,104, [https://doi.org/10.5194/gmd-11-4817-2018](https://doi.org/10.5194/gmd-11-4817-2018).
 
 
 `2018` **Dawson, N.**, P. Broxton, and X. Zeng, 2018: Evaluation of Remotely Sensed Snow Water Equivalent and Snow Cover Extent over the Contiguous United States. *Journal of Hydrometeorology*, 19, 1777–1791, [https://doi.org/10.1175/JHM-D-18-0007.1](https://doi.org/10.1175/JHM-D-18-0007.1).
