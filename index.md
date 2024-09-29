@@ -12,7 +12,8 @@ Atmospheric Scientist, Airman, Adventurer.
 
 ## Currently
 
-Senior Atmospheric Scientist | Expert in Applied Earth System Sciences & Operational Meteorology
+Senior Atmospheric Scientist, Expert in Applied Earth System Sciences & Operational Meteorology
+
 
 Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of research-to-operations (R2O) workflows for utility and environmental applications. Expertise in cloud seeding operations, fire weather forecasting, and numerical weather prediction (NWP) using predictive models like WRF. Proficient in Python for process automation and developing data-driven decision support systems. Demonstrated ability to lead strategic projects, foster collaborative partnerships, and translate scientific discoveries into actionable solutions addressing societal challenges.
 
@@ -120,7 +121,7 @@ Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbi
 
 `2016 - now`__Idaho Power Company__, Boise, ID
 - __Led a cross-departmental team__ to evaluate and quantify the financial impact of enhanced wind generation forecasting, resulting in strategic resource reallocation and cost savings of approximately $100k.
-- __Developed and implemented__ Python-based cloud seeding suspension criteria, adopted operationally in Wyoming (2024), reducing the minimum suspension period from 30 days to 3 days. This innovation received positive stakeholder feedback and generated inquiries for broader application.
+- __Developed and implemented__ Python-based cloud seeding suspension criteria, adopted operationally in 2024, reducing the minimum suspension period from 30 days to 3 days. This innovation received positive stakeholder feedback and generated inquiries for broader application.
 - __Directed a cross-departmental initiative__ to update solar and wind generation forecasts, achieving a ~30% reduction in forecast error and enabling improved day-ahead resource planning.
 - __Pioneered the adoption__ of an Azure-based DevOps CI/CD workflow for Python Git repositories, streamlining testing and development processes, saving time, and reducing errors.
 - __Designed and deployed__ a Fire Potential Index forecast process, supporting the company's Wildfire Mitigation Plan and enhancing proactive wildfire response strategies.
