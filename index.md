@@ -6,13 +6,13 @@ title: Nichols Dawson's CV
 Atmospheric Scientist, Airman, Adventurer.
 
 <div id="webaddress">
-<a href="mailto:ndawson33@gmail.com">ndawson33@gmail.com</a> | 208.860.0954
+<a href="mailto:ndawson33@gmail.com">ndawson33@gmail.com</a> | 208.860.0954 | <a href="https://orcid.org/0000-0001-7854-2385">https://orcid.org/0000-0001-7854-2385</a>
 </div>
 
 
 ## Professional Summary
 
-Senior Atmospheric Scientist | Expert in Operational Meteorology & Applied Sciences
+Senior Atmospheric Scientist, Expert in Operational Meteorology & Applied Sciences
 
 Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of **research-to-operations** (R2O) workflows for utility and environmental applications. Expertise in **cloud seeding** operations, **fire weather** forecasting, and numerical weather prediction (NWP) using predictive models like **WRF**. Proficient in **Python** for process automation and developing data-driven decision support systems. Proven ability to **lead strategic projects**, foster **collaborative partnerships**, and translate scientific discoveries into **actionable solutions** that address business challenges.
 
@@ -21,7 +21,7 @@ Atmospheric scientist with extensive experience in community-driven, multidiscip
 Advancing operational meteorology through innovative, interdisciplinary methodologies and state-of-the-art modeling techniques. Enhancing cloud seeding efficacy with cutting-edge tools and improving fire weather forecasting accuracy through comprehensive observational integration. Translating complex scientific research into practical Earth system solutions to meet critical societal needs, supported by strategic collaborations and community-driven initiatives.
 
 ## Education
-`2012 – 2016`  
+`2013 – 2016`  
 **Ph.D., Atmospheric Sciences, University of Arizona**  
 - Dissertation: [Assessment and Improvement of Snow Datasets Over the United States](https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1)
 
@@ -73,7 +73,7 @@ National Defense Service Ribbon - Missouri Army National Guard
 
 ## Publications
 ### Journals
-`2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, [https://doi.org/10.1175/JAS-D-23-0029](https://doi.org/10.1175/JAS-D-23-0029).
+`2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, [https://doi.org/10.1175/JAS-D-23-0029.1](https://doi.org/10.1175/JAS-D-23-0029.1).
 
 
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmospheric Chemistry and Physics*, 23, 5217–5231, [https://doi.org/10.5194/acp-23-5217-2023](https://doi.org/10.5194/acp-23-5217-2023).
