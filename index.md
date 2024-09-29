@@ -38,16 +38,16 @@ __B.S., University of Missouri - Columbia, Atmospheric Sciences__
 
 ## Service
 ### Committees and Conferences
-`2024` __Chair__, 24th Conference on Planned and Inadvertent Weather Modification, American Meteorological Society Annual Meeting
+`2024` **Chair**, [24th Conference on Planned and Inadvertent Weather Modification](https://annual.ametsoc.org/index.cfm/2024/program-events/conferences-and-symposia/24th-conference-on-planned-and-inadvertent-weather-modification/), American Meteorological Society Annual Meeting
 
-`2021 - now` __Chair__, American Meteorological Society Committee on Planned and Inadvertent Weather Modification
+`2021 – Present` **Chair**, American Meteorological Society [Committee on Planned and Inadvertent Weather Modification](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-planned-and-inadvertent-weather-modification/)
 
 ### Memberships
-American Meteorological Society
+[American Meteorological Society](https://www.ametsoc.org)
 
-Weather Modification Association, __Certified Operator__
+[Weather Modification Association](https://weathermod.org/), **Certified Operator**
 
-American Geophysical Union
+[American Geophysical Union](https://www.agu.org)
 
 ## Awards
 `2022`
