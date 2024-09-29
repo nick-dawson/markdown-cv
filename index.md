@@ -12,15 +12,20 @@ Atmospheric Scientist, Airman, Adventurer.
 
 ## Currently
 
-Senior Atmospheric scientist responsible for a utility weather data workflow, research to operations, cloud seeding operations, and fire weather operations.
+Senior Atmospheric Scientist | Expert in Applied Earth System Sciences & Operational Meteorology
 
-### Specialized in
+Dedicated atmospheric scientist with extensive experience in community-driven, multidisciplinary research and integration of research-to-operations (R2O) workflows for utility and environmental applications. Demonstrated expertise in cloud seeding operations, fire weather forecasting, and data-driven decision support systems. Skilled in developing and applying predictive models (e.g., WRF) and leveraging Python for process automation and custom tool development. Proven ability to lead strategic projects, foster collaborative partnerships, and translate scientific discoveries into actionable solutions that address societal challenges.
 
-Cloud seeding, fire weather, research to operations, Python, WRF, limited data forecasting
+### Core Competencies
+- Advanced Cloud Seeding & Fire Weather Forecasting
+- Numerical Weather Prediction & Predictive Modeling
+- Research-to-Operations (R2O) Integration
+- Python Programming & Data-Driven Solutions
+- Multidisciplinary Collaboration & Strategic Partnerships
 
 ### Research interests
 
-Combine interdisciplinary methods for unique opportunities, improve operational tools for effective cloud seeding, improve situational awareness and forecast tools for fire weather operations
+Advancing interdisciplinary approaches to operational meteorology through the integration of innovative methodologies and state-of-the-art modeling techniques. Optimizing cloud seeding efficacy with cutting-edge tools and enhancing predictive accuracy in fire weather forecasting through comprehensive observational integration. Translating complex scientific research into actionable Earth system solutions to address critical societal challenges, supported by strategic collaborations and community-driven research initiatives.
 
 ## Education
 
