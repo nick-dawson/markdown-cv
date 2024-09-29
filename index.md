@@ -51,22 +51,27 @@ __B.S., University of Missouri - Columbia, Atmospheric Sciences__
 
 ## Awards
 `2022`
-Army Commendation Medal
+Army Commendation Medal - Idaho Army National Guard
 
 `2016`
 Best Oral Presentation at the El Día del Agua y la Atmósfera Student Research Symposium - University of Arizona
 
 `2015`
-Army Commendation Medal
+Army Commendation Medal - Arizona Army National Guard
 
 `2014`
 Galileo Scholar Award - University of Arizona
 
 `2013`
-Army Achievment Medal
+Army Achievment Medal - Arizona Army National Guard
 
 `2010`
-Army Achievement Medal, Most Outstanding Senior - University of Missouri-Columbia
+Army Achievement Medal - Missouri Army National Guard
+
+Most Outstanding Senior - University of Missouri-Columbia
+
+`2008`
+National Defense Service Ribbon - Missouri Army National Guard
 
 ## Publications
 ### Journals
