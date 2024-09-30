@@ -14,7 +14,7 @@ Atmospheric Scientist, Airman, Adventurer.
 
 Senior Atmospheric Scientist, Expert in Operational Meteorology & Applied Sciences
 
-Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of **research-to-operations** (R2O) workflows for utility and environmental applications. Expertise in **cloud seeding** operations, **fire weather** forecasting, and numerical weather prediction (NWP) using predictive models like **WRF**. Proficient in **Python** for process automation and developing data-driven decision support systems. Proven ability to **lead strategic projects**, foster **collaborative partnerships**, and translate scientific discoveries into **actionable solutions** that address business challenges.
+Atmospheric scientist with extensive experience in community-driven, multidisciplinary research and the integration of **research-to-operations** (R2O) workflows for utility applications. Expertise in **cloud seeding** operations, **fire weather** forecasting, and numerical weather prediction (NWP) using predictive models like **WRF**. Proficient in **Python** for process automation and developing data-driven decision support systems. Proven ability to **lead strategic projects**, foster **collaborative partnerships**, and translate scientific discoveries into **actionable solutions** that address business challenges.
 
 ### Research Interests
 
