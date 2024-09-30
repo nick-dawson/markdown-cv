@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nichols Dawson's CV
+title: Nicholas Dawson's CV
 ---
 # Nicholas Dawson
 Atmospheric Scientist, Airman, Adventurer.
