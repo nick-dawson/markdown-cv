@@ -122,14 +122,14 @@ National Defense Service Ribbon - Missouri Army National Guard
 ## Occupation
 
 
-`2016 - now`__Idaho Power Company__, Boise, ID
-- *Led a cross-departmental team* to evaluate and quantify the financial impact of enhanced wind generation forecasting, resulting in strategic resource reallocation and cost savings of approximately $100k.
+`2016 - Present`__Idaho Power Company__, Boise, ID
+- *Led a cross-departmental team* to evaluate and quantify the financial impact of enhanced wind generation forecasting, resulting in strategic resource reallocation and annual cost savings of ~$100k.
 - *Developed and implemented* Python-based cloud seeding suspension criteria, adopted operationally in 2024, reducing the minimum suspension period from 30 days to 3 days. This innovation received positive stakeholder feedback and generated inquiries for broader application.
 - *Directed a cross-departmental initiative* to update solar and wind generation forecasts, achieving a ~30% reduction in forecast error and enabling improved day-ahead resource planning.
 - *Pioneered the adoption* of an Azure-based DevOps CI/CD workflow for Python Git repositories, streamlining testing and development processes, saving time, and reducing errors.
 - *Designed and deployed* a Fire Potential Index forecast process, supporting the company's Wildfire Mitigation Plan and enhancing proactive wildfire response strategies.
 
-`2022 - now`__Oregon Air National Guard__, Portland, OR
+`2022 - Present`__Oregon Air National Guard__, Portland, OR
 - *Officer in Charge* of the 123rd Combat Weather Flight, overseeing a team of 6 enlisted Weather Airmen and ensuring operational readiness.
 - *Coordinated training opportunities* with Army National Guard units, enhancing inter-unit collaboration and operational integration.
 - *Developed and implemented* comprehensive training protocols for Weather Airmen, aligning meteorological expertise with Army doctrine to facilitate seamless integration into joint operations.
@@ -142,6 +142,6 @@ National Defense Service Ribbon - Missouri Army National Guard
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2024 -->
 
 
