@@ -123,10 +123,11 @@ National Defense Service Ribbon - Missouri Army National Guard
 
 
 `2016 - Present` **Idaho Power Company**, Boise, ID
-- *Led a cross-departmental team* to evaluate the financial impact of improved wind generation forecasting, using Python and a user survey to understand forecast utilization, resulting in strategic resource reallocation and annual cost savings of ~$100k.
+`2016 - Present` __Idaho Power Company__, Boise, ID
+- *Designed and operationalized* Fire Potential Index forecasts for wildfire mitigation, enhancing situational awareness and enabling the company's first Public Safety Power Shutoff event.
 - *Implemented Python-based automation* of cloud seeding suspension criteria, reducing the minimum suspension period by 90%, providing more opportunities for safe cloud seeding operations, which is a key objective for stakeholders.
 - *Directed initiatives* to update solar and wind generation forecasts, achieving a 30% reduction in forecast error, resulting in improved day-ahead resource allocation and operational planning.
-- *Designed and operationalized* Fire Potential Index forecasts supporting wildfire mitigation, leading to a 15% increase in proactive fire prevention measures.
+- *Led a cross-departmental team* to evaluate the financial impact of improved wind generation forecasting, using Python and a user survey to understand forecast utilization, resulting in strategic resource reallocation and annual cost savings of ~$100k.
 - *Pioneered DevOps practices* for Python codebase in Azure, reducing deployment times by 50% and minimizing errors, streamlining research-to-operations transitions.
 
 `2022 - Present` **Oregon Air National Guard**, Portland, OR
@@ -140,8 +141,8 @@ National Defense Service Ribbon - Missouri Army National Guard
 - *Maintained operational readiness* through continued professional development during Ph.D. studies, demonstrating adaptability and commitment to ongoing career advancement.
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: September 2024 -->
+Last updated: October 2024
 
 
