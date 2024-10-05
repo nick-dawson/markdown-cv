@@ -45,6 +45,9 @@ Advancing operational meteorology through innovative, interdisciplinary approach
 [American Geophysical Union](https://www.agu.org)
 
 ## Awards
+`2023`
+Distinguished Graduate - U.S. Air Force Weather and Environmental Sciences Officer Course
+
 `2022`
 Army Commendation Medal - Idaho Army National Guard
 
@@ -123,7 +126,6 @@ National Defense Service Ribbon - Missouri Army National Guard
 
 
 `2016 - Present` **Idaho Power Company**, Boise, ID
-`2016 - Present` __Idaho Power Company__, Boise, ID
 - *Designed and operationalized* Fire Potential Index forecasts for wildfire mitigation, enhancing situational awareness and enabling the company's first Public Safety Power Shutoff event.
 - *Implemented Python-based automation* of cloud seeding suspension criteria, reducing the minimum suspension period by 90%, providing more opportunities for safe cloud seeding operations, which is a key objective for stakeholders.
 - *Directed initiatives* to update solar and wind generation forecasts, achieving a 30% reduction in forecast error, resulting in improved day-ahead resource allocation and operational planning.
