@@ -24,7 +24,7 @@ Advancing operational meteorology through innovative, interdisciplinary approach
 `2013 – 2016`  **Ph.D., Atmospheric Sciences, University of Arizona**  
 - Dissertation: [Assessment and Improvement of Snow Datasets Over the United States](https://repository.arizona.edu/bitstream/handle/10150/624535/azu_etd_15394_sip1_m.pdf?sequence=1)
 
-`2010 – 2011` **M.S., Environmental Science, University of Arizona**  
+`2011 – 2012` **M.S., Environmental Science, University of Arizona**  
 - Improved WRF frost forecasts for Arizona produce farmers to minimize produce losses.
 - Optimized WRF configuration for wind forecasts in Idaho, improving day-ahead energy planning accuracy by 15%.
 
