@@ -12,7 +12,7 @@ Atmospheric Scientist, Airman, Adventurer.
 
 ## Professional Summary
 
-Senior Atmospheric Scientist with Expertise in Cloud Microphysics, Weather Modification, and Operational Meteorology
+Senior Atmospheric Scientist with Expertise in Weather Modification, Operational Meteorology, and Cloud Microphysics
 
 Atmospheric scientist with extensive experience in **community-driven, multidisciplinary research** and **research-to-operations (R2O) integration** for utility weather-related applications. Expertise in cloud seeding operations, cloud microphysics, fire weather forecasting, and numerical weather prediction (NWP) using models like WRF. Proficient in Python for process automation, large dataset analysis, and developing data-driven decision support systems. Proven ability to **lead strategic projects**, foster **collaborative partnerships**, and translate scientific discoveries into high-impact, real-world solutions. Experienced in designing experimental field programs, coordinating multi-organization teams, and managing data collection and computing needs for cloud seeding projects. Skilled in high-performance computing environments and adept at evaluating weather model performance against field observations.
 
