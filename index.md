@@ -26,7 +26,8 @@ Advancing operational meteorology through innovative, interdisciplinary approach
 
 `2011 – 2012` **M.S., Environmental Science, University of Arizona**  
 - Improved WRF frost forecasts for Arizona produce farmers to minimize produce losses.
-- Optimized WRF configuration for wind forecasts in Idaho, improving day-ahead energy planning accuracy by 15%.
+- Adjusted Idaho Power WRF input parameters, reducing air temperature forecast error by up to 73%.
+- Optimized WRF configuration for wind forecasts in Idaho, improving wind speed error for day-ahead energy planning by 22%.
 
 `2008 – 2010` **B.S., Atmospheric Sciences, University of Missouri - Columbia**
 
