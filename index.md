@@ -133,13 +133,13 @@ National Defense Service Ribbon - Missouri Army National Guard
 - *Pioneered DevOps practices* for Python codebase in Azure, reducing deployment times by 50% and minimizing errors, streamlining research-to-operations transitions.
 
 `2022 - Present` **Oregon Air National Guard**, Portland, OR
-- *Led the 123rd Combat Weather Flight* as Officer in Charge, ensuring a 100% mission readiness rate for 6 enlisted Weather Airmen.
+- *Led the 123rd Combat Weather Flight* as Officer in Charge, overseeing a team of 6 enlisted Weather Airmen and ensuring operational readiness.
 - *Facilitated inter-unit collaboration* by coordinating joint meteorological training with Army National Guard aviation units, resulting in enhanced operational integration and readiness.
 - *Developed and executed training protocols*, enhancing meteorological proficiency and ensuring seamless alignment with Army operational needs.
 
 `2008 - 2022` **Army National Guard**, Missouri, Arizona, and Idaho
-- *Served 8 years* as enlisted and 3 years as a non-commissioned officer, providing leadership in logistics, supply chain management, and operational planning across multiple deployments.
-- *Acted as Forward Support Company Executive Officer* for the 183rd Aviation Battalion, optimizing supply chain processes and reducing resource shortages by 30%.
+- *Served 8 years* as enlisted with 3 years as a non-commissioned officer, demonstrating leadership, strategic planning, and operational management within various units.
+- *Acted as Forward Support Company Executive Officer* for the 183rd Aviation Battalion for 2 years, managing supply chain operations while ensuring mission-critical resource availability.
 - *Maintained operational readiness* through continued professional development during Ph.D. studies, demonstrating adaptability and commitment to ongoing career advancement.
 
 
