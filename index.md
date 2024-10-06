@@ -33,7 +33,7 @@ Advancing operational meteorology through innovative, interdisciplinary approach
 
 ## Service
 ### Committees and Conferences
-`2024` **Chair**, [24th Conference on Planned and Inadvertent Weather Modification]([https://annual.ametsoc.org/index.cfm/2024/program-events/conferences-and-symposia/24th-conference-on-planned-and-inadvertent-weather-modification/](https://annual.ametsoc.org/index.cfm/2024/program-events/conferences-and-symposia/24th-conference-on-planned-and-inadvertent-weather-modification/)), American Meteorological Society Annual Meeting
+`2024` **Chair**, [24th Conference on Planned and Inadvertent Weather Modification](https://annual.ametsoc.org/index.cfm/2024/program-events/conferences-and-symposia/24th-conference-on-planned-and-inadvertent-weather-modification/), American Meteorological Society Annual Meeting
 
 `2021 – Present` **Chair**, American Meteorological Society [Committee on Planned and Inadvertent Weather Modification](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-planned-and-inadvertent-weather-modification/)
 
