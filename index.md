@@ -73,7 +73,7 @@ National Defense Service Ribbon - Missouri Army National Guard
 
 ## Publications
 ### Journals
-`2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, [https://doi.org/10.1175/JAS-D-23-0029.1](https://doi.org/10.1175/JAS-D-23-0029.1).
+`2024` Tessendorf, S. A., K. Ikeda, R. Rasmussen, J. French, R. Rauber, A. Korolev, L. Xue, D. Blestrud, **N. Dawson**, M. Meadows, M. Kunkel, and S. Parkinson, 2024: Characteristics of Generating Cells in Wintertime Orographic Clouds. *Journal of the Atmospheric Sciences*, 81, 649–673, [10.1175/JAS-D-23-0029.1](https://doi.org/10.1175/JAS-D-23-0029.1).
 
 
 `2023` Chen, S., L. Xue, S. Tessendorf, K. Ikeda, C. Weeks, R. Rasmussen, M. Kunkel, D. Blestrud, S. Parkinson, M. Meadows, and **N. Dawson**, 2023: Mixed-phase direct numerical simulation: ice growth in cloud-top generating cells. *Atmospheric Chemistry and Physics*, 23, 5217–5231, [https://doi.org/10.5194/acp-23-5217-2023](https://doi.org/10.5194/acp-23-5217-2023).
