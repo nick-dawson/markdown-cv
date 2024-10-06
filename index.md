@@ -143,6 +143,7 @@ National Defense Service Ribbon - Missouri Army National Guard
 - *Maintained operational readiness* through continued professional development during Ph.D. studies, demonstrating adaptability and commitment to ongoing career advancement.
 
 
-### Last updated: October 2024
+### Last updated
+October 2024
 
 
